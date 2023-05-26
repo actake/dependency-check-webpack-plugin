@@ -1,10 +1,14 @@
 {
   "name": "base",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^5.83.1",
-    "webpack-cli": "^5.1.1"
+    "webpack-cli": "^5.1.1",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "webpack"
   }
 }
