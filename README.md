@@ -1,6 +1,6 @@
 # dependency-check-webpack-plugin
 
-Check if there are new dependencies in package.json that have not been installed, if exist, it will automatically execute the install command
+Check if there are new dependencies in package.json that have not been installed, and than automatically execute the install command
 
 ## Install
 
