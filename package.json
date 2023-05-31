@@ -1,8 +1,8 @@
 {
   "name": "dependency-check-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Check if there are new dependencies in package.json that have not been installed, and than automatically execute the install command",
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
     "lib/",
     "typings.d.ts"

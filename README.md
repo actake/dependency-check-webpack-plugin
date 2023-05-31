@@ -27,7 +27,7 @@ module.exports = {
   },
   plugins: [
     // give some options
-    new HtmlWebpackPlugin({})
+    new DependencyCheckWebpackPlugin({})
   ]
 }
 ```
