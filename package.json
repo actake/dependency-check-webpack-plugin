@@ -1,6 +1,6 @@
 {
   "name": "dependency-check-webpack-plugin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if there are new dependencies in package.json that have not been installed, and than automatically execute the install command",
   "main": "lib/index.js",
   "files": [
@@ -33,7 +33,6 @@
     "webpack-cli": "^5.1.1"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
     "shelljs": "^0.8.5"
   }
 }
